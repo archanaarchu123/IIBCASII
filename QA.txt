@@ -1,0 +1,7 @@
+1.
+Which symbol will be used with grep command to match the pattern pat at the beginning of a line?
+^pat
+$pat
+pat$
+pat^
+None of the abov
